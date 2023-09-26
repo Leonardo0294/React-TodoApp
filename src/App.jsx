@@ -3,7 +3,7 @@ import { TodoApp } from "../src/pages/TodoApp.jsx";
 function App() {
   return (
     <>
-      {/* Llama al componente TodoApp aquí */}
+      {/* Call the TodoApp component here */}
       <TodoApp />
     </>
   );
